@@ -15,11 +15,8 @@ Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
 Option Explicit
 
-Private Sub UserForm_Activate()
-
-End Sub
-
 Private Sub UserForm_Click()
 
 End Sub
+
 
